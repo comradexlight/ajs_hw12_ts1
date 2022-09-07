@@ -14,11 +14,6 @@
      "@typescript-eslint"
   ],
   "rules": {
-    "no-restricted-syntax": [
-      "error",
-      "LabeledStatement",
-      "WithStatement"
-    ],
     "@typescript-eslint/no-var-requires": 0 
   }
 }
